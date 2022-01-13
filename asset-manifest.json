@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://shwetasarsar.github.io/csb-6254k/static/css/main.2145bfde.chunk.css",
+    "main.js": "https://shwetasarsar.github.io/csb-6254k/static/js/main.90c94b5e.chunk.js",
+    "main.js.map": "https://shwetasarsar.github.io/csb-6254k/static/js/main.90c94b5e.chunk.js.map",
+    "runtime-main.js": "https://shwetasarsar.github.io/csb-6254k/static/js/runtime-main.8107819f.js",
+    "runtime-main.js.map": "https://shwetasarsar.github.io/csb-6254k/static/js/runtime-main.8107819f.js.map",
+    "static/js/2.13d31799.chunk.js": "https://shwetasarsar.github.io/csb-6254k/static/js/2.13d31799.chunk.js",
+    "static/js/2.13d31799.chunk.js.map": "https://shwetasarsar.github.io/csb-6254k/static/js/2.13d31799.chunk.js.map",
+    "index.html": "https://shwetasarsar.github.io/csb-6254k/index.html",
+    "static/css/main.2145bfde.chunk.css.map": "https://shwetasarsar.github.io/csb-6254k/static/css/main.2145bfde.chunk.css.map",
+    "static/js/2.13d31799.chunk.js.LICENSE.txt": "https://shwetasarsar.github.io/csb-6254k/static/js/2.13d31799.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8107819f.js",
+    "static/js/2.13d31799.chunk.js",
+    "static/css/main.2145bfde.chunk.css",
+    "static/js/main.90c94b5e.chunk.js"
+  ]
+}
